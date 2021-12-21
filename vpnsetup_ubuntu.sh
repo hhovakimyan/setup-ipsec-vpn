@@ -619,7 +619,6 @@ vpnsetup() {
   check_root
   check_vz
   check_os
-  check_iface
   check_creds
   check_dns
   check_iptables
